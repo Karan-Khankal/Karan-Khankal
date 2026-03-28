@@ -1,6 +1,6 @@
 # Hi, I'm Karan 👋
 
-🎯 Aspiring Data Analyst with hands-on experience in SQL, Python, Power BI, and Tableau.  
+🎯 Aspiring Data Analyst with hands-on experience in Excel, SQL, Python, Power BI, and Tableau.  
 I specialize in data cleaning, exploratory data analysis, and building business-focused dashboards.
 
 ---
