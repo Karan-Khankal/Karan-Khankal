@@ -13,6 +13,7 @@ I specialize in data cleaning, exploratory data analysis, and building business-
 - Excel (data cleaning, pivot tables, charts)
 - Data Cleaning & Transformation
 - Joins, Aggregations, Window Functions
+- Tableau Dashboard Visualization and Storytelling
 
 ---
 
