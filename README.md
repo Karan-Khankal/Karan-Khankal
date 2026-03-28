@@ -1,23 +1,33 @@
 # Hi, I'm Karan 👋
 
-🎯 Aspiring Data Analyst with hands-on experience in SQL, Python, Power BI, and Excel.  
+🎯 Aspiring Data Analyst with hands-on experience in SQL, Python, Power BI, and Tableau.  
 I specialize in data cleaning, exploratory data analysis, and building business-focused dashboards.
 
 ---
 
 ## 🛠 Skills
 
-- SQL (PostgreSQL)
-- Python (pandas, numpy, matplotlib, seaborn)
-- Power BI (DAX, data modeling, interactive dashboards)
-- Excel (data cleaning, pivot tables, charts)
-- Data Cleaning & Transformation
-- Joins, Aggregations, Window Functions
-- Tableau Dashboard Visualization and Storytelling
+| Category | Tools & Technologies |
+|----------|---------------------|
+| **Databases** | SQL (PostgreSQL, MySQL) |
+| **Programming** | Python (pandas, numpy, matplotlib, seaborn) |
+| **Visualization** | Tableau, Power BI (DAX, data modeling) |
+| **Spreadsheets** | Excel (pivot tables, charts, data cleaning) |
+| **Core Competencies** | Data Cleaning, EDA, Joins, Aggregations, Window Functions, Dashboard Storytelling |
 
 ---
 
 ## 📊 Featured Projects
+
+### 🎬 Hollywood's Most Profitable Stories – Tableau Dashboard
+- Built interactive Tableau dashboard analyzing 75 Hollywood movies (2007–2011)
+- Created 3 visualizations: Top Rated Films by Genre, Movie Profitability, and Worldwide Gross
+- Key insights: Fireproof achieved 66x profitability; Twilight franchise dominated with $700M+ gross; Animation films lead in ratings
+- Published interactive dashboard on Tableau Public for portfolio viewing
+🔗 **GitHub:** https://github.com/Karan-Khankal/hollywood-movies-tableau-dashboard  
+📊 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/views/HollywoodMovieDashboard_17744733111810/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
 
 ### 🍕 Pizza Sales Analysis – SQL
 - Designed relational database with orders, pizzas, pizza_types, and order_details  
@@ -69,20 +79,17 @@ I specialize in data cleaning, exploratory data analysis, and building business-
 - Performed exploratory data analysis on sales dataset  
 - Data transformation and visualization using pandas and matplotlib  
 - Generated actionable business insights  
-🔗 https://github.com/Karan-Khankal/sales-analyzer
-
----
-
-## 🚀 2026 Goals
-- Build advanced end-to-end analytics projects (SQL + Python + Power BI)  
-- Strengthen statistics for data analysis  
-- Contribute to open-source data projects  
-- Land a Data Analyst role  
+🔗 https://github.com/Karan-Khankal/sales-analyzer  
 
 ---
 
 ## 🤝 Connect with me
-- LinkedIn: www.linkedin.com/in/karan-khankal-57a142204
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-khankal-57a142204)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karan-Khankal)
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-View_Profile-1e376b?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/karan.khankal)
+
+---
 
 <!--
 **Karan-Khankal/Karan-Khankal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
