@@ -94,8 +94,6 @@ I specialize in data cleaning, exploratory data analysis, and building business-
 - **Key outcomes:** 20% delinquency reduction, 30% cost savings, $500K annual savings
 📁 **[View Full Project Repository](https://github.com/Karan-Khankal/Tata-GenAI-Data-Analytics-Forage)**
 
-[![Forage](https://img.shields.io/badge/Forage-Tata_iQ-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://www.theforage.com/simulations/tata/gen-ai-powered-data-analytics)
-
 ---
 
 ## 🤝 Connect with me
