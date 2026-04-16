@@ -14,6 +14,7 @@ I specialize in data cleaning, exploratory data analysis, and building business-
 | **Visualization** | Tableau, Power BI (DAX, data modeling) |
 | **Spreadsheets** | Excel (pivot tables, charts, data cleaning) |
 | **Core Competencies** | Data Cleaning, EDA, Joins, Aggregations, Window Functions, Dashboard Storytelling |
+| **GenAI & Analytics** | ChatGPT, Gemini, Prompt Engineering, AI-Driven Strategy |
 
 ---
 
@@ -80,6 +81,20 @@ I specialize in data cleaning, exploratory data analysis, and building business-
 - Data transformation and visualization using pandas and matplotlib  
 - Generated actionable business insights  
 🔗 https://github.com/Karan-Khankal/sales-analyzer  
+
+---
+
+## 🏆 Virtual Experience Programs
+
+### 🧠 Tata iQ GenAI-Powered Data Analytics – Forage
+- Completed job simulation with Tata iQ's Financial Services team
+- Conducted EDA using GenAI tools to identify credit risk indicators (missed payments, credit utilization, DTI ratio)
+- Proposed and justified a no-code predictive modeling framework for customer delinquency risk
+- Designed an AI-driven collections strategy with ethical guardrails: fairness, explainability, compliance, and privacy
+- **Key outcomes:** 20% delinquency reduction, 30% cost savings, $500K annual savings
+📁 **[View Full Project Repository](https://github.com/Karan-Khankal/Tata-GenAI-Data-Analytics-Forage)**
+
+[![Forage](https://img.shields.io/badge/Forage-Tata_iQ-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://www.theforage.com/simulations/tata/gen-ai-powered-data-analytics)
 
 ---
 
